@@ -31,7 +31,7 @@ def write_dict_to_csv(filename, dict_file, first_time):
 
 # main function
 first_time = True
-if __name__ == "_main_":
+if __name__ == "__main__":
     while True:
         cpu_dict = read_cpu_usage()
         write_dict_to_csv("my_first_dataset.csv", cpu_dict,first_time)
