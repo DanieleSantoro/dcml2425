@@ -1,7 +1,7 @@
-# My DCML repo
+# My DCML repository
 
-content
+I'll upload some Python things here.
 
-## subtitle
+## Exam
 
-content
+Project scheduled in April.
